@@ -1,11 +1,11 @@
 
 
 <br>
-<h3 align="center">
+<h2 align="center">
   <samp>
     Hey There!, I am Adrian Drzazgowski
   </samp>
-</h3>
+</h2>
 
 <p align="center">
   <samp>
