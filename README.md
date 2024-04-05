@@ -39,7 +39,7 @@
   <img src="https://img.shields.io/badge/C%2B%2B-000?style=for-the-badge&logo=c%2B%2B&logoColor=%2300599C" />
   <img src="https://img.shields.io/badge/Rust-000?style=for-the-badge&logo=rust" />
   <img src="https://img.shields.io/badge/Github-000?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git" />
+  <!--<img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git" />-->
 </p>
 
 <!--
