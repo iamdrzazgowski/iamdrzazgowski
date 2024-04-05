@@ -2,7 +2,9 @@
 
 <br>
 <h3 align="center">
-  Hey There!, I am Adrian Drzazgowski
+  <samp>
+    Hey There!, I am Adrian Drzazgowski
+  </samp>
 </h3>
 
 <p align="center">
