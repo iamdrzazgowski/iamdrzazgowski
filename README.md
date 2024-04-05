@@ -28,6 +28,18 @@
 <a><a href="https://github.com/iamdrzazgowski"><img alt="Al Siam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=iamdrzazgowski&show_icons=true&count_private=true&theme=react&border_color=FFFFFF&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=9f9f9f&icon_color=79ff97" height="192px" width="49.5%"/></a>
 <a href="https://github.com/iamdrzazgowski"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=iamdrzazgowski&langs_count=8&layout=compact&count_private=false&theme=react&border_color=7F3FBF&bg_color=0D1117&hide_border=true&title_color=FFFFFF&icon_color=F8D866&text_color=9f9f9f&hide=java,kotlin,c" height="192px" width="49.5%"/></a>
 
+<h2></h2>
+<br>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html" height="25px"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css" height="25px"/>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" height="25px"/>
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="python" height="25px"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="c++" height="25px"/>
+  <img src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324" alt="rust" height="25px"/>
+</p>
+
 <!--
 **iamdrzazgowski/iamdrzazgowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
