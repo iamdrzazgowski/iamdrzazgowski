@@ -6,7 +6,9 @@
 </h3>
 
 <p align="center">
-  I am a Computer Science student from Poland.
+  <samp>
+    I am a Computer Science student from Poland.
+  </samp>
 </p>
 <br>
 
