@@ -41,6 +41,16 @@
   <img src="https://img.shields.io/badge/Github-000?style=for-the-badge&logo=github" />
   <!--<img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git" />-->
   <img src="https://img.shields.io/badge/vscode-000?style=for-the-badge&logo=visualstudiocode&logoColor=%232AAFF2" />
+
+  <img src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=CSS3&logoColor=%231572B6" />
+  <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/C%2B%2B-000?style=for-the-badge&logo=c%2B%2B&logoColor=%2300599C" />
+  <img src="https://img.shields.io/badge/Rust-000?style=for-the-badge&logo=rust" />
+  <img src="https://img.shields.io/badge/Github-000?style=for-the-badge&logo=github" />
+  <!--<img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git" />-->
+  <img src="https://img.shields.io/badge/vscode-000?style=for-the-badge&logo=visualstudiocode&logoColor=%232AAFF2" />
 </p>
 
 <!--
