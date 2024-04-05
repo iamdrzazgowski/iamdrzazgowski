@@ -30,6 +30,12 @@
 <h2></h2>
 <br>
 
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=HTML5" />
+  <img src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=HTML5" />
+</p>
+
 ![Static Badge](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=HTML5)
 ![Static Badge](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=CSS3&logoColor=%231572B6)
 ![Static Badge](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
