@@ -28,7 +28,7 @@
 <a><a href="https://github.com/iamdrzazgowski"><img alt="Al Siam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=iamdrzazgowski&show_icons=true&count_private=true&theme=react&border_color=FFFFFF&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=9f9f9f&icon_color=79ff97" height="192px" width="49.5%"/></a>
 <a href="https://github.com/iamdrzazgowski"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=iamdrzazgowski&langs_count=8&layout=compact&count_private=false&theme=react&border_color=7F3FBF&bg_color=0D1117&hide_border=true&title_color=FFFFFF&icon_color=F8D866&text_color=9f9f9f&hide=java,kotlin,c" height="192px" width="49.5%"/></a>
 
-<p align="center">
+
 ![Static Badge](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=HTML5)
 ![Static Badge](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=CSS3&logoColor=%231572B6)
 ![Static Badge](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
@@ -37,8 +37,7 @@
 ![Static Badge](https://img.shields.io/badge/Rust-000?style=for-the-badge&logo=rust)
 ![Static Badge](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=github)
 ![Static Badge](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
-  
-</p>
+
 
 
 
