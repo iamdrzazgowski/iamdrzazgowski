@@ -3,9 +3,10 @@
   Hey There!, I am Adrian Drzazgowski
 </h3>
 
-<h4 align="center">
+<p align="center">
   I am a Computer Science student from Poland.
-</h4>
+  </br>
+</p>
 
 <p align="center"> 
   <a href="https://www.linkedin.com/in/adrian-drzazgowski-58a26a302/" target="_blank">
