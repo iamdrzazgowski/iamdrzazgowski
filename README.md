@@ -29,11 +29,11 @@
 <a href="https://github.com/iamdrzazgowski"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=iamdrzazgowski&langs_count=8&layout=compact&count_private=false&theme=react&border_color=7F3FBF&bg_color=0D1117&hide_border=true&title_color=FFFFFF&icon_color=F8D866&text_color=9f9f9f&hide=java,kotlin,c" height="192px" width="49.5%"/></a>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
 <!--
 **iamdrzazgowski/iamdrzazgowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
