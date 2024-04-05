@@ -5,8 +5,9 @@
 
 <p align="center">
   I am a Computer Science student from Poland.
-  </br>
 </p>
+<br>
+<br>
 
 <p align="center"> 
   <a href="https://www.linkedin.com/in/adrian-drzazgowski-58a26a302/" target="_blank">
