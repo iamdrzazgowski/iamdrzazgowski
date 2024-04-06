@@ -15,7 +15,8 @@
 <br>
 
 <p align="center"> 
-  <a href="https://www.linkedin.com/in/adrian-drzazgowski/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="adriandrzazgowski" height="25px"/></a><a href="https://stackoverflow.com/users/19413267/mlodyadi" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="adriandrzazgowski" height="25px"/></a>
+  <a href="https://www.linkedin.com/in/adrian-drzazgowski/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="adriandrzazgowski" height="25px"/></a>
+  <a href="https://stackoverflow.com/users/19413267/mlodyadi" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="adriandrzazgowski" height="25px"/></a>
 </p>
 
 <h2></h2>
