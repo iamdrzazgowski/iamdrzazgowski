@@ -12,6 +12,7 @@
     I am a Computer Science student from Poland.
   </samp>
 </p>
+
 <!--
 <br>
 <p align="center"> 
