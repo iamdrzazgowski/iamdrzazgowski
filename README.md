@@ -41,7 +41,6 @@
   <!--<img src="https://img.shields.io/badge/vscode-000?style=for-the-badge&logo=visualstudiocode&logoColor=%232AAFF2" />-->
 </p>
 
-
 <!--
 ![Static Badge](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=HTML5)
 ![Static Badge](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=CSS3&logoColor=%231572B6)
