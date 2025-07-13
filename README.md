@@ -46,6 +46,7 @@
     <img src="https://img.shields.io/badge/vite-000?style=for-the-badge&logo=vite&logoColor=%23646CFF&color=%23181818" />
     <img src="https://img.shields.io/badge/postgresql-000?style=for-the-badge&logo=postgresql&logoColor=%234169E1&color=%23181818" />
     <img src="https://img.shields.io/badge/cssmodules-000?style=for-the-badge&logo=cssmodules&color=%23181818" />
+    <img src="https://img.shields.io/badge/postman-000?style=for-the-badge&logo=postman&logoColor=%23FF6C37&color=%23181818" />
   <!--<img src="https://img.shields.io/badge/Github-000?style=for-the-badge&logo=github" />-->
   <!--<img src="https://img.shields.io/badge/vscode-000?style=for-the-badge&logo=visualstudiocode&logoColor=%232AAFF2" />-->
 </p>
