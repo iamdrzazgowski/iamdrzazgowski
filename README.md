@@ -38,6 +38,9 @@
     <img src="https://img.shields.io/badge/C%2B%2B-000?style=for-the-badge&logo=c%2B%2B&logoColor=%2300599C&color=%23181818" />
     <img src="https://img.shields.io/badge/Rust-000?style=for-the-badge&logo=rust&color=%23181818" />
     <img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&color=%23181818" />
+    <img src="https://img.shields.io/badge/tailwindcss-000?style=for-the-badge&logo=tailwindcss&logoColor=%2306B6D4&color=%23181818" />
+    <img src="https://img.shields.io/badge/supabase-000?style=for-the-badge&logo=supabase&logoColor=%233FCF8E&color=%23181818" />
+    <img src="https://img.shields.io/badge/firebase-000?style=for-the-badge&logo=firebase&logoColor=%23DD2C00&color=%23181818" />
   <!--<img src="https://img.shields.io/badge/Github-000?style=for-the-badge&logo=github" />-->
   <!--<img src="https://img.shields.io/badge/vscode-000?style=for-the-badge&logo=visualstudiocode&logoColor=%232AAFF2" />-->
 </p>
