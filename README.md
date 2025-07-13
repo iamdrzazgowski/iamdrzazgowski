@@ -30,7 +30,7 @@
 
 <p align="center">
     <img src="https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=HTML5&color=%23181818" />
-    <img src="https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=CSS3&logoColor=%231572B6&color=%23181818" />
+    <img src="https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=CSS&logoColor=%23663399&color=%23181818" />
     <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=JavaScript&color=%23181818" />
     <img src="https://img.shields.io/badge/typescript-000?style=for-the-badge&logo=typescript&color=%23181818" />
     <img src='https://img.shields.io/badge/React-000?style=for-the-badge&logo=React&color=%23181818'/>
