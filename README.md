@@ -43,6 +43,7 @@
     <img src="https://img.shields.io/badge/supabase-000?style=for-the-badge&logo=supabase&logoColor=%233FCF8E&color=%23181818" />
     <img src="https://img.shields.io/badge/firebase-000?style=for-the-badge&logo=firebase&logoColor=%23DD2C00&color=%23181818" />
     <img src="https://img.shields.io/badge/reactrouter-000?style=for-the-badge&logo=reactrouter&logoColor=%23CA4245&color=%23181818" />
+    <img src="https://img.shields.io/badge/Redux-000?style=for-the-badge&logo=redux&logoColor=%23764ABC&color=%23181818" />
     <img src="https://img.shields.io/badge/vite-000?style=for-the-badge&logo=vite&logoColor=%23646CFF&color=%23181818" />
     <!--<img src="https://img.shields.io/badge/postgresql-000?style=for-the-badge&logo=postgresql&logoColor=%234169E1&color=%23181818" />-->
     <img src="https://img.shields.io/badge/cssmodules-000?style=for-the-badge&logo=cssmodules&color=%23181818" />
