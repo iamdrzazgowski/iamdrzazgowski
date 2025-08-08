@@ -26,7 +26,6 @@
 <h2></h2>
 <br>
 
-
 <p align="center">
     <img src="https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=HTML5&color=%23181818" />
     <img src="https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=CSS&logoColor=%23663399&color=%23181818" />
