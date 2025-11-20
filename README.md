@@ -18,7 +18,7 @@
 <h2></h2>
 <br>
 
-<p>
+<p align="center">
     <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=JavaScript&color=%23181818" />
     <img src="https://img.shields.io/badge/typescript-000?style=for-the-badge&logo=typescript&color=%23181818" />
     <img src='https://img.shields.io/badge/React-000?style=for-the-badge&logo=React&color=%23181818'/>
