@@ -1,4 +1,3 @@
-<!--<br>-->
 <h3 align="center">
 <!--   <samp> -->
     Hey There!, I am Adrian Drzazgowski
@@ -10,8 +9,6 @@
     I am a Computer Science student from Poland.
 <!--   </samp> -->
 </p>
-
-<h2></h2>
 
 <a><a href="https://github.com/iamdrzazgowski"><img alt="iamdrzazgowski's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=iamdrzazgowski&show_icons=true&count_private=true&theme=react&border_color=FFFFFF&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=9f9f9f&icon_color=79ff97" height="192px" width="49.5%"/></a>
 <a href="https://github.com/iamdrzazgowski"><img alt="iamdrzazgowski's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=iamdrzazgowski&langs_count=6&layout=compact&count_private=false&theme=react&border_color=7F3FBF&bg_color=0D1117&hide_border=true&title_color=FFFFFF&icon_color=F8D866&text_color=9f9f9f&hide=prolog,php,blade,c,kotlin,cmake" height="192px" width="49.5%"/></a>
@@ -41,7 +38,6 @@
     <img src="https://img.shields.io/badge/reacthookform-000?style=for-the-badge&logo=reacthookform&logoColor=EC5990&color=%23181818" />
     -->
     <img src="https://img.shields.io/badge/vite-000?style=for-the-badge&logo=vite&logoColor=%23646CFF&color=%23181818" />
-    <!--<img src="https://img.shields.io/badge/cssmodules-000?style=for-the-badge&logo=cssmodules&color=%23181818" />-->
 </p>
 
 <!--
