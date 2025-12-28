@@ -1,13 +1,9 @@
 <h3 align="center">
-<!--   <samp> -->
     Hey There!, I am Adrian Drzazgowski
-<!--   </samp> -->
 </h3>
 
 <p align="center">
-<!--   <samp> -->
     I am a Computer Science student from Poland.
-<!--   </samp> -->
 </p>
 
 <h2></h2>
