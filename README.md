@@ -27,12 +27,6 @@
     <img src="https://img.shields.io/badge/postgresql-000?style=for-the-badge&logo=postgresql&logoColor=%234169E1&color=%23181818" />
     <img src="https://img.shields.io/badge/prisma-000?style=for-the-badge&logo=prisma&logoColor=fff&color=%23181818" />
     <img src="https://img.shields.io/badge/betterauth-000?style=for-the-badge&logo=betterauth&logoColor=fff&color=%23181818" />
-    <!--
-    <img src="https://img.shields.io/badge/reactrouter-000?style=for-the-badge&logo=reactrouter&logoColor=%23CA4245&color=%23181818" />
-    <img src="https://img.shields.io/badge/Redux-000?style=for-the-badge&logo=redux&logoColor=%23764ABC&color=%23181818" />
-    <img src="https://img.shields.io/badge/reactquery-000?style=for-the-badge&logo=react%20query&logoColor=FF4154&color=%23181818" />
-    <img src="https://img.shields.io/badge/reacthookform-000?style=for-the-badge&logo=reacthookform&logoColor=EC5990&color=%23181818" />
-    -->
     <img src="https://img.shields.io/badge/vite-000?style=for-the-badge&logo=vite&logoColor=%23646CFF&color=%23181818" />
 </p>
 
