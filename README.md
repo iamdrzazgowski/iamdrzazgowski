@@ -27,6 +27,7 @@
     <img src="https://img.shields.io/badge/tailwindcss-000?style=for-the-badge&logo=tailwindcss&logoColor=%2306B6D4&color=%23181818" />
     <img src="https://img.shields.io/badge/supabase-000?style=for-the-badge&logo=supabase&logoColor=%233FCF8E&color=%23181818" />
     <img src="https://img.shields.io/badge/postgresql-000?style=for-the-badge&logo=postgresql&logoColor=%234169E1&color=%23181818" />
+    <img src="https://img.shields.io/badge/mongodb-000?style=for-the-badge&logo=mongodb&logoColor=%233FCF8E&color=%23181818" />
     <img src="https://img.shields.io/badge/prisma-000?style=for-the-badge&logo=prisma&logoColor=fff&color=%23181818" />
     <!-- <img src="https://img.shields.io/badge/betterauth-000?style=for-the-badge&logo=betterauth&logoColor=fff&color=%23181818" /> -->
     <img src="https://img.shields.io/badge/vite-000?style=for-the-badge&logo=vite&logoColor=%23646CFF&color=%23181818" />
